@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shantanu Pathak</h1>
 <h3 align="center">An enthusiastic Full Stack Web Developer with a strong set of technical as well as non-technical skills and a dedication towards creating interactive web apps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pooran8898&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pooran8898&&color=0e75b6&style=flat"  /> </p>
 
 - 🌱 I’m currently learning **Data Structures/ Algorithms.**
 
